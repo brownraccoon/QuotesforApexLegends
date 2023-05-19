@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "892993657154",
+    "project_id": "quotes-for-apex-legends",
+    "storage_bucket": "quotes-for-apex-legends.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892993657154:android:625053de233977e1f750db",
+        "android_client_info": {
+          "package_name": "com.br.quotesforapexlegends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892993657154-dskbs4hekv9frkj6qsmpfc78p8qbhl4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASSJhrOO4LUIe3UGNVNpWP8skcP3-9uls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892993657154-dskbs4hekv9frkj6qsmpfc78p8qbhl4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
